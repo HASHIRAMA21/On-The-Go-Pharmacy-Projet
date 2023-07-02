@@ -1,0 +1,10 @@
+//
+// Created by krohn on 5/7/23.
+//
+
+#ifndef BAUNE_PROJECT_DESCRIPTIONDTO_H
+#define BAUNE_PROJECT_DESCRIPTIONDTO_H
+
+
+
+#endif //BAUNE_PROJECT_DESCRIPTIONDTO_H
